@@ -1,6 +1,10 @@
-Server ı çalıştırmak için aşağıdaki komut kullanılır.
-Not: Data.json dosyasının bulunduğu dizinde komut çalıştırılmalıdır.
+README:
 
-"json-server data.json --routes routes.json"
+NodeJs server ını çalıştırmak için öncelikle nodejs indirilmiş olması ve aşağıdaki komutun çalıştırılması gerekmektedir.
+"npm install json-server --save-dev"
+
+
+Server ı çalıştırmak için aşağıdaki komut kullanılır.
+"node server.js"
 
 

@@ -3,25 +3,17 @@
     {
       "id": 1,
       "author": "John Smith",
-      "title": "SRE 101"
+      "title": "Trendyol 101"
     },
     {
       "id": 2,
       "author": "Jane Archer",
-      "title": "DevOps is a lie"
+      "title": "Trendyol Test Automation"
     },
     {
+      "author": "John Smith",
+      "title": "SRE 101",
       "id": 3
-    },
-    {
-      "author": "John Smith",
-      "title": "SRE 101",
-      "id": 4
-    },
-    {
-      "author": "John Smith",
-      "title": "SRE 101",
-      "id": 5
     }
   ]
 }
