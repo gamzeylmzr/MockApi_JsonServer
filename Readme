@@ -1,0 +1,6 @@
+Server ı çalıştırmak için aşağıdaki komut kullanılır.
+Not: Data.json dosyasının bulunduğu dizinde komut çalıştırılmalıdır.
+
+"json-server data.json --routes routes.json"
+
+
